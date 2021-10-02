@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS NB\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documents\\SongProject\\SONG\\SONG\\SONG.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS NB\\Documents\\GitHub\\SongProject\\SONG\\SONG\\SONG.csproj",
       "projectName": "SONG",
-      "projectPath": "C:\\Users\\DELL\\OneDrive\\Documents\\SongProject\\SONG\\SONG\\SONG.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\OneDrive\\Documents\\SongProject\\SONG\\SONG\\obj\\",
+      "projectPath": "C:\\Users\\ASUS NB\\Documents\\GitHub\\SongProject\\SONG\\SONG\\SONG.csproj",
+      "packagesPath": "C:\\Users\\ASUS NB\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS NB\\Documents\\GitHub\\SongProject\\SONG\\SONG\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS NB\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
