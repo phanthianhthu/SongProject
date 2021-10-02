@@ -6,7 +6,9 @@ namespace SONG
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Enter number songs: ");
+            int numSongs = int.Parse(Console.ReadLine());
+            List<Song> songs = new List<Song>();
         }
     }
 }
